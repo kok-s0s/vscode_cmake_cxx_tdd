@@ -27,10 +27,10 @@ export default defineComponent({
 <template>
   <div class="slidev-layout h-full grid image-x">
     <div class="my-auto flex">
-      <div class="w-2/3 flex justify-center items-center p-8 max-h-md object-cover" :class="imageOrder">
+      <div class="w-1/3 flex justify-center items-center p-8 max-h-md object-cover" :class="imageOrder">
         <img :src="image" class="rounded-2xl border-image h-full object-cover" />
       </div>
-      <div class="w-1/3 flex flex-col justify-center" :class="textAlignment">
+      <div class="w-2/3 flex flex-col justify-center" :class="textAlignment">
         <slot />
       </div>
     </div>

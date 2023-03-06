@@ -16,15 +16,8 @@ position: center
   "CMake | C++ | VSCode | TDD"
 </div>
 
-<div class="pt-2 mb-16 opacity-70">
-  医用开发部 - 苏佳彬
-</div>
-
 <BarBottom title="CMake | C++ | VSCode | TDD">
-  <Item text="医用开发部">
-    <carbon:id-management />
-  </Item>
-  <Item text="苏佳彬">
+  <Item text="kok-s0s">
     <carbon:user-avatar-filled-alt />
   </Item>
 </BarBottom>
@@ -42,10 +35,7 @@ imageOrder: 2
 - 🎨 **TDD（GoogleTest）**
 
 <BarBottom title="CMake | C++ | VSCode | TDD">
-  <Item text="医用开发部">
-    <carbon:id-management />
-  </Item>
-  <Item text="苏佳彬">
+  <Item text="kok-s0s">
     <carbon:user-avatar-filled-alt />
   </Item>
 </BarBottom>
@@ -64,10 +54,7 @@ CMake
 
 
 <BarBottom title="CMake | C++ | VSCode | TDD">
-  <Item text="医用开发部">
-    <carbon:id-management />
-  </Item>
-  <Item text="苏佳彬">
+  <Item text="kok-s0s">
     <carbon:user-avatar-filled-alt />
   </Item>
 </BarBottom>
@@ -84,10 +71,7 @@ imageOrder: 1
 ---
 
 <BarBottom title="CMake | C++ | VSCode | TDD">
-  <Item text="医用开发部">
-    <carbon:id-management />
-  </Item>
-  <Item text="苏佳彬">
+  <Item text="kok-s0s">
     <carbon:user-avatar-filled-alt />
   </Item>
 </BarBottom>
@@ -99,10 +83,7 @@ imageOrder: 1
 
 
 <BarBottom title="CMake | C++ | VSCode | TDD">
-  <Item text="医用开发部">
-    <carbon:id-management />
-  </Item>
-  <Item text="苏佳彬">
+  <Item text="kok-s0s">
     <carbon:user-avatar-filled-alt />
   </Item>
 </BarBottom>
