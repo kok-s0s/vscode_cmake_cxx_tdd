@@ -17,11 +17,14 @@ position: center
 </div>
 
 <div class="pt-2 mb-16 opacity-70">
-  Author - kok-s0s
+  医用开发部 - 苏佳彬
 </div>
 
 <BarBottom title="VSCode | CMake | C++  | TDD">
-  <Item text="kok-s0s">
+  <Item text="医用开发部">
+    <carbon:id-management />
+  </Item>
+  <Item text="苏佳彬">
     <carbon:user-avatar-filled-alt />
   </Item>
 </BarBottom>
@@ -40,7 +43,10 @@ imageOrder: 2
 - 🎨 **TDD（GoogleTest）**
 
 <BarBottom title="VSCode | CMake | C++  | TDD">
-  <Item text="kok-s0s">
+  <Item text="医用开发部">
+    <carbon:id-management />
+  </Item>
+  <Item text="苏佳彬">
     <carbon:user-avatar-filled-alt />
   </Item>
 </BarBottom>
@@ -58,7 +64,10 @@ CMake
 - 是平台无关的中间编译工具。同一个 CMake 编译规则在不同操作系统会构建出不同的可执行构建文件。在 Linux 产生 MakeFile，在 Windows 平台产生 Visual Studio 工程 sln 等。CMake 旨在解决各平台的不同 Make 工具的产生的差异（比如 GNU Make， QT 的 qmake，微软的 nmake， BSD 的 pmake）。
 
 <BarBottom title="VSCode | CMake | C++  | TDD">
-  <Item text="kok-s0s">
+  <Item text="医用开发部">
+    <carbon:id-management />
+  </Item>
+  <Item text="苏佳彬">
     <carbon:user-avatar-filled-alt />
   </Item>
 </BarBottom>
@@ -74,7 +83,10 @@ imageOrder: 1
 ---
 
 <BarBottom title="VSCode | CMake | C++  | TDD">
-  <Item text="kok-s0s">
+  <Item text="医用开发部">
+    <carbon:id-management />
+  </Item>
+  <Item text="苏佳彬">
     <carbon:user-avatar-filled-alt />
   </Item>
 </BarBottom>
@@ -94,7 +106,10 @@ imageOrder: 2
 Windows 选择 .msi 的，Linux 选择 .sh 的，都是可以直接执行后无脑安装的。
 
 <BarBottom title="VSCode | CMake | C++  | TDD">
-  <Item text="kok-s0s">
+  <Item text="医用开发部">
+    <carbon:id-management />
+  </Item>
+  <Item text="苏佳彬">
     <carbon:user-avatar-filled-alt />
   </Item>
 </BarBottom>
@@ -118,7 +133,10 @@ VSCode [官网](https://code.visualstudio.com/)下载即可，然后搜索以下
 - cmake-format 代码格式化 CMakeLists.txt
 
 <BarBottom title="VSCode | CMake | C++  | TDD">
-  <Item text="kok-s0s">
+  <Item text="医用开发部">
+    <carbon:id-management />
+  </Item>
+  <Item text="苏佳彬">
     <carbon:user-avatar-filled-alt />
   </Item>
 </BarBottom>
@@ -137,7 +155,10 @@ VSCode [官网](https://code.visualstudio.com/)下载即可，然后搜索以下
 - 直接点击 CMake Tools 提供的 run 运行按钮或 debug 调试按钮来跑代码。
 
 <BarBottom title="VSCode | CMake | C++  | TDD">
-  <Item text="kok-s0s">
+  <Item text="医用开发部">
+    <carbon:id-management />
+  </Item>
+  <Item text="苏佳彬">
     <carbon:user-avatar-filled-alt />
   </Item>
 </BarBottom>
@@ -177,7 +198,10 @@ TDD 的流程
 - 重构代码
 
 <BarBottom title="VSCode | CMake | C++  | TDD">
-  <Item text="kok-s0s">
+  <Item text="医用开发部">
+    <carbon:id-management />
+  </Item>
+  <Item text="苏佳彬">
     <carbon:user-avatar-filled-alt />
   </Item>
 </BarBottom>
@@ -196,7 +220,10 @@ GoogleTest 的特点
 - 能够生成测试报告
 
 <BarBottom title="VSCode | CMake | C++  | TDD">
-  <Item text="kok-s0s">
+  <Item text="医用开发部">
+    <carbon:id-management />
+  </Item>
+  <Item text="苏佳彬">
     <carbon:user-avatar-filled-alt />
   </Item>
 </BarBottom>
@@ -211,10 +238,13 @@ GoogleTest 是 Google 开源的一个 C++ 单元测试框架。
 
 CMake 配置 GoogleTest，可查看[官网指导](https://google.github.io/googletest/quickstart-cmake.html)
 
-具体项目说明 -- [cxx_crud_file](https://github.com/kok-s0s/cxx_crud_file)
+具体项目说明 -- `cxx_crud_file`
 
 <BarBottom title="VSCode | CMake | C++  | TDD">
-  <Item text="kok-s0s">
+  <Item text="医用开发部">
+    <carbon:id-management />
+  </Item>
+  <Item text="苏佳彬">
     <carbon:user-avatar-filled-alt />
   </Item>
 </BarBottom>
